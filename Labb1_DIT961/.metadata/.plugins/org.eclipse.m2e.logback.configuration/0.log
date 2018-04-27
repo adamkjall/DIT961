@@ -1,0 +1,3 @@
+2018-04-13 10:14:59,371 [Worker-6] WARN  org.eclipse.jgit.util.FS - Exception caught during execution of command '[git, config, --system, --edit]' in '/chalmers/sw/sup64/phc/b/binh', return code '128', error message 'fatal: Could not switch to '/chalmers/sw/sup64/git-2.10.0/etc/': No such file or directory
+'
+2018-04-13 10:30:34,332 [main] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache file is out-of-date. Remote download required.
